@@ -6,7 +6,7 @@ The main source of included styles is the [open source Citation Style Language (
 - Extensive databse of many CSL styles in [zotero](https://www.zotero.org/styles) with search facility
 
 ### How to use
-Symlink required style into the required folder:
+Symlink required style into the relevant project folder:
 
 ```
 ┌── ln(1) link, ln -- make links
